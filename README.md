@@ -1,4 +1,4 @@
-### Hi there, I'm [CHENYU](https://www.cheny.cn)（Cheny）. 👋 This is my new home!!!
+### Hi there, I'm [CHENYU](https://www.cheny.cn)（Cheny）This is my new Home. 👋 
 
 <img align="right" width="200" src="https://www.helloimg.com/images/2022/11/30/ZuLxLK.th.png">
 
