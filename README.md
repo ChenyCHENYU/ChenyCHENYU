@@ -9,7 +9,7 @@ I want to be involved in and contribute to good open source projects that I'm in
 
 The one on the right is [Robot](https://www.helloimg.com/images/2022/11/30/ZuLxLK.th.png)（机器人）, I think it's cool, isn't it?.
 
-- 🔭 I’m currently writing some amateur [Robot Admin](https://github.com/), Interned at [@tz.agileteam](https://www.tzagileteam.com/).
+- 🔭 I’m currently writing some amateur [Robot Admin](https://github.com/), Practice at [@tz.agileteam](https://www.tzagileteam.com/).
 - 🌱 I’m currently look excellent open source projects，Borrowed a lot of good ideas,I will try to perfect it.
 - 🤔 I want to make a pure front-end，And can continue to promote and grow up, and contribute to the community.
 - ❤️ I like eating 🍉, raising 🐓, playing 🏓, sleeping in 🛌 and watching 📺 .
