@@ -1,4 +1,4 @@
-### Hi there, I'm [CHENYU](https://www.cheny.cn) (Cheny) – Welcome to my Digital Universe 👋 
+### Hi there, I'm [CHENYU](https://www.yangchenyu.com) (Cheny) – Welcome to my Digital Universe 👋 
 
 <img align="right" width="200" src="https://cheny-chenyu.oss-cn-chengdu.aliyuncs.com/img/robot-left.png">
 
@@ -59,8 +59,6 @@ The cool [Robot](https://www.helloimg.com/images/2022/11/30/ZuLxLK.th.png) on th
 <!-- markdownlint-disable -->
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" title="Vue.js - Progressive JavaScript Framework" /></code>
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" title="React - UI Component Library" /></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nuxt/nuxt.png" alt="Nuxt.js" title="Nuxt.js - Vue.js Meta-Framework" /></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nextjs/nextjs.png" alt="Next.js" title="Next.js - React Production Framework" /></code>
 <code><img height="28" src="https://vitejs.dev/logo.svg" alt="Vite" title="Vite - Next Generation Build Tool" /></code>
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="Webpack" title="Webpack - Module Bundler" /></code>
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker - Containerization Platform" /></code>
@@ -134,7 +132,7 @@ My goal is to bridge the gap between innovative technology and practical busines
 
 **🚀 Transforming Ideas into Digital Reality, One Line of Code at a Time 🚀**
 
-[![Personal Website](https://img.shields.io/badge/🌐_Portfolio-cheny.cn-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.cheny.cn)
+[![Personal Website](https://img.shields.io/badge/🌐_Portfolio-yangchenyu.com-58A6FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.yangchenyu.com)
 [![Email Contact](https://img.shields.io/badge/📧_Contact-ycyplus@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ycyplus@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/chenyu)
 
