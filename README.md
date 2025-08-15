@@ -47,7 +47,7 @@ The cool [Robot](https://www.helloimg.com/images/2022/11/30/ZuLxLK.th.png) on th
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" title="HTML5 - Semantic Web Structure" /></code>
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" title="Sass - CSS Preprocessor Excellence" /></code>
 <code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" title="Node.js - Server-Side JavaScript Runtime" /></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" title="Python - Versatile Programming Language" /></code>
+<code><img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png" alt="NestJS" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 <!-- languages:end -->
