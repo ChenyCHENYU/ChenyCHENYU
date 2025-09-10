@@ -19,7 +19,7 @@ The cool [Robot](https://www.helloimg.com/images/2022/11/30/ZuLxLK.th.png) on th
 
 ## 🎨 Life Philosophy
 
-- ❤️ **Embracing Life**: Savoring summer watermelons🍉, finding zen in swimming🏊‍♂️, and unleashing energy on the ping-pong table🏓
+- ❤️ **Embracing Life**: Savoring summer watermelons🍉, finding zen in swimming🏊‍♂️, and unleashing energy on the ping-pong table
 - 💤 **Work-Life Harmony**: Believing that quality rest🛌 fuels peak performance
 - 📺 **Continuous Learning**: Maintaining curiosity about the world through diverse channels
 - 💬 **Open Dialogue**: Always excited about technical discussions and idea exchanges [ycyplus@gmail.com](mailto:ycyplus@gmail.com)
