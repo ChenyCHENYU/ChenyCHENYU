@@ -1,14 +1,37 @@
 ### Hi there, I'm [CHENYU](https://www.yangchenyu.com) (Cheny) – Welcome to my Digital Universe 👋 
 
-<img align="right" width="200" src="https://cheny-chenyu.oss-cn-chengdu.aliyuncs.com/img/robot-left.png">
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=160&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=55" width="100%"/>
+</div>
+
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=500&height=50&lines=💡+Technology+Explorer;🚀+Full-Stack+Engineer;🎨+Open+Source+Advocate)](https://git.io/typing-svg)
+  
+</div>
+
+<div align="center">
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=ChenyCHENYU&color=4ECDC4&style=for-the-badge&label=VISITORS)
+  ![GitHub followers](https://img.shields.io/github/followers/ChenyCHENYU?color=4ECDC4&style=for-the-badge)
+  ![GitHub stars](https://img.shields.io/github/stars/ChenyCHENYU?color=4ECDC4&style=for-the-badge)
+  
+</div>
 
 ## 💫 About Me
+
+<br clear="right"/>
+<img align="right" width="208" src="https://cheny-chenyu.oss-cn-chengdu.aliyuncs.com/img/robot-left.png" alt="Robot">
 
 I'm a **Technology Explorer**, **Open Source Advocate**, and **Innovation Practitioner** with an unwavering passion for crafting elegant code and breakthrough solutions.
 
 As a **Full-Stack Engineer** specializing in modern frontend ecosystems, I'm dedicated to building exceptional user experiences through maintainable, scalable architectures. I believe in the power of open source collaboration and actively contribute to the community that has shaped my journey.
 
-The cool [Robot](https://www.helloimg.com/images/2022/11/30/ZuLxLK.th.png) on the right represents my fascination with AI and emerging technologies 🤖
+The cool [Robot](https://www.helloimg.com/images/2022/11/30/ZuLxLK.th.png) represents my fascination with AI and emerging technologies 🤖
+
+<br clear="right"/>
+
+---
 
 ## 🚀 Current Focus
 
@@ -28,63 +51,39 @@ The cool [Robot](https://www.helloimg.com/images/2022/11/30/ZuLxLK.th.png) on th
 
 ## 🛠️ Technology Arsenal
 
-#### Core Languages
-
-<!-- github-stats:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<img align="right" width="420" src="https://github-readme-stats.vercel.app/api?username=ChenyCHENYU&include_all_commits=true&count_private=true&custom_title=ChenyCHENYU's%20GitHub%20Analytics&line_height=28&show_icons=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9&border_radius=12">
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- github-stats:end -->
-
-<!-- languages:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" title="JavaScript - The Soul of Dynamic Web" /></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" title="TypeScript - Type-Safe JavaScript Superset" /></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" title="CSS3 - Modern Web Styling" /></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" title="HTML5 - Semantic Web Structure" /></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" title="Sass - CSS Preprocessor Excellence" /></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" title="Node.js - Server-Side JavaScript Runtime" /></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png" alt="NestJS" /></code>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- languages:end -->
-
-#### Frameworks & DevOps
-
-<!-- tools:start -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" title="Vue.js - Progressive JavaScript Framework" /></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" title="React - UI Component Library" /></code>
-<code><img height="28" src="https://vitejs.dev/logo.svg" alt="Vite" title="Vite - Next Generation Build Tool" /></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="Webpack" title="Webpack - Module Bundler" /></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" title="Docker - Containerization Platform" /></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" title="Git - Distributed Version Control" /></code>
-<code><img height="28" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" title="Visual Studio Code - Modern Code Editor" /></code>
-<!-- markdownlint-restore -->
-<!-- prettier-ignore-end -->
-<!-- tools:end -->
-
-## 📊 Technical Achievements
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenyCHENYU&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_radius=12&langs_count=8" alt="Programming Languages" />
+
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="JavaScript" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="TypeScript" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png" alt="Vue.js" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS3" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="Sass" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Node.js" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/main/topics/nestjs/nestjs.png" alt="NestJS" /></code>
+<code><img height="24" src="https://vitejs.dev/logo.svg" alt="Vite" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/webpack/webpack.png" alt="Webpack" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" alt="Docker" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" alt="Git" /></code>
+<code><img height="24" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" /></code>
+
 </div>
 
-<br>
+---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ChenyCHENYU&hide_border=true&background=0D1117&stroke=58A6FF&ring=1F6FEB&fire=FF6B6B&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border_radius=12" alt="Contribution Streak" />
-</div>
+## 📊 GitHub Stats
 
-<br>
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=ChenyCHENYU&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=⚡%20GitHub%20Analytics"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChenyCHENYU&layout=compact&theme=radical&hide_border=true&langs_count=6&custom_title=💻%20Language%20Distribution"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ChenyCHENYU&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=C9D1D9&area=true&hide_border=true&radius=12" alt="Contribution Graph" />
-</div>
+<p align="center">
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=ChenyCHENYU&theme=radical&hide_border=true"/>
+</p>
+
+---
 
 ## 🌟 Engineering Philosophy
 
@@ -107,24 +106,21 @@ The cool [Robot](https://www.helloimg.com/images/2022/11/30/ZuLxLK.th.png) on th
 
 <div align="center">
 
-![Frontend Architecture](https://img.shields.io/badge/Frontend_Architecture-Expert-58A6FF?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEyIDJMMTMuMDkgOC4yNkwyMCA5TDEzLjA5IDE1Ljc0TDEyIDIyTDEwLjkxIDE1Ljc0TDQgOUwxMC45MSA4LjI2TDEyIDJaIiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K)
-![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-Advanced-1F6FEB?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPHBhdGggZD0iTTEzIDJMMy41IDYuNUwxMC4yNSAxMy4yNUwxMyAyWiIgZmlsbD0id2hpdGUiLz4KPHBhdGggZD0iTTEzIDJWMjJMMjAuNSAyMC41TDEzIDJaIiBmaWxsPSJ3aGl0ZSIvPgo8L3N2Zz4K)
-![DevOps Integration](https://img.shields.io/badge/DevOps_Integration-Proficient-FF6B6B?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjQiIGhlaWdodD0iMjQiIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj4KPGNpcmNsZSBjeD0iMTIiIGN5PSIxMiIgcj0iMTAiIHN0cm9rZT0id2hpdGUiIHN0cm9rZS13aWR0aD0iMiIvPgo8cGF0aCBkPSJNOCAxMkwxMSAxNUwxNiA5IiBzdHJva2U9IndoaXRlIiBzdHJva2Utd2lkdGg9IjIiIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIvPgo8L3N2Zz4K)
+![Frontend Architecture](https://img.shields.io/badge/Frontend_Architecture-Expert-4ECDC4?style=for-the-badge&logoColor=white)
+![Performance Optimization](https://img.shields.io/badge/Performance_Optimization-Advanced-FF6B6B?style=for-the-badge&logoColor=white)
+![DevOps Integration](https://img.shields.io/badge/DevOps_Integration-Proficient-45B7D1?style=for-the-badge&logoColor=white)
 
 </div>
 
-## 🏆 Recent Achievements
+---
 
-- 🚀 **System Architecture**: Led the design and implementation of scalable microservices architecture
-- 📈 **Performance Gains**: Achieved 40%+ improvement in application load times through optimization
-- 🔧 **Automation**: Streamlined development workflows with custom tooling and CI/CD pipelines
-- 👥 **Team Leadership**: Mentored junior developers and established coding standards across teams
+## 🐍 Contribution Timeline
 
-## 🎯 What Drives Me
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/ChenyCHENYU/ChenyCHENYU/output/github-contribution-grid-snake-dark.svg)
 
-I'm passionate about solving complex problems through elegant solutions. Whether it's architecting scalable systems, optimizing performance bottlenecks, or crafting intuitive user interfaces, I approach each challenge with creativity and technical rigor.
-
-My goal is to bridge the gap between innovative technology and practical business value, creating digital experiences that not only meet today's needs but anticipate tomorrow's possibilities.
+</div>
 
 ---
 
@@ -141,5 +137,5 @@ My goal is to bridge the gap between innovative technology and practical busines
 </div>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=120&section=footer&animation=fadeIn" width="100%"/>
 </div>
