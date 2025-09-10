@@ -1,4 +1,4 @@
-### Hi there, I'm [CHENYU](https://www.yangchenyu.com) (Cheny) – Welcome to my Digital Universe 👋 
+### Hi there, I'm [CHENYU](https://www.yangchenyu.com) (Cheny) 👋 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:45B7D1&height=160&section=header&text=Welcome%20to%20My%20Digital%20Universe&fontSize=40&fontColor=fff&animation=fadeIn&fontAlignY=55" width="100%"/>
